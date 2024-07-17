@@ -135,7 +135,14 @@ hr {
     padding: 15px;
     margin:10px;
 }
-
+a{
+    color:black;
+    margin:30px;
+    font-size: medium;
+}
+a:hover{
+    font-size: large;
+}
 li{
     padding:10px;
 }
